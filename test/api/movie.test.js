@@ -88,7 +88,7 @@ describe('/api/movies tests', () => {
           });
     });
   });
-
+/*
   describe('/PUT/:movie_id movies', () => {
     it('it should UPDATE  a  movie given by id',(done) => {
       const movie = {
@@ -135,6 +135,6 @@ describe('/api/movies tests', () => {
     });
   });
 
-
+*/
 });
 
